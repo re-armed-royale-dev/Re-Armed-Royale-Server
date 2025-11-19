@@ -4,11 +4,9 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 -----------------------------------------
-## 🏆 Fork Features 🏆
-1. New chat commands
-2. Infinite number of Admins
-3. Player bans
-4. Fixed CSV files
+## ⭐ Fork Features ⭐
+1. Added Maintenance 
+2. Patch rework!
 
 ## ✅ TODO ✅
 1. Access management for chat commands (some commands will be available to regular players, while others will be exclusive to admins)
